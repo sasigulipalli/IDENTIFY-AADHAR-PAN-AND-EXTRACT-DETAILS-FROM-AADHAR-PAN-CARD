@@ -21,4 +21,4 @@ USAGE :
 
 3. GIve output path for the data to be stored in .json /.txt file 
 
-4. You can see the final ouput obtained and the details stored in info.json which describes the type of the image(whether aadhar/pan) and its relevant details
+4. You can see the final ouput obtained and the details stored in info.json which detects the type of the image(whether aadhar/pan) and its relevant details
