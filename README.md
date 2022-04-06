@@ -27,6 +27,7 @@ sample input image:
 ![2](https://user-images.githubusercontent.com/49371052/161949939-a22ae7a8-3162-4271-9981-9c65d0a8bea9.jpg)
 
 results obtained:
+
 {
     "Date of Birth": "20/11/1983",
     "Father Name": "PADMANABHAN DEVARAJAN",
