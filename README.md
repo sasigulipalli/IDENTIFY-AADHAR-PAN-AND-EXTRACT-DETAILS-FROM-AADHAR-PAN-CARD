@@ -15,7 +15,7 @@ NOTE : 2. AS PYTESSERACT EXTRACT TEXT INFORMATION FROM IMAGE THERE MIGHT NOT BE 
 
 USAGE : 
 
-1. DOwnload the folder and make sure aadhar_read.py and pan_read.py are in same directory as detect.ipynb notebook.
+1. DOwnload/clone the entire code and make sure aadhar_read.py and pan_read.py are in same directory as detect.ipynb notebook.
 
 2. OPEN DETECT.ipynb notebook and change the path to your respective input image path and run the notebook
 
