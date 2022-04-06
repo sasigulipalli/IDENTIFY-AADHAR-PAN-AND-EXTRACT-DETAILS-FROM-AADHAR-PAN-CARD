@@ -11,5 +11,5 @@ NOTE: 1. AS PYTESSERACT IS TRAINED ONLY FOR ENGLISH LANGUAGE, THE QUALITY OF THE
 NOTE : 2. AS PYTESSERACT EXTRACT TEXT INFORMATION FROM IMAGE THERE MIGHT NOT BE 100% ACCURACY IN EXTRACTING THE DETAILS IN EVERY CASE.
 
 SAMPLE INPUT:
-![plot](/home/hemanth/sasi/anomaly/aadhar/input/2.jpg)
+![Alt text](/home/hemanth/sasi/anomaly/aadhar/input/2.jpg raw=true "Input image")
 
