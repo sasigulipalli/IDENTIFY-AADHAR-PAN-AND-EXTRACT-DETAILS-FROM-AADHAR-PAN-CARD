@@ -10,6 +10,9 @@ NOTE: 1. AS PYTESSERACT IS TRAINED ONLY FOR ENGLISH LANGUAGE, THE QUALITY OF THE
 
 NOTE : 2. AS PYTESSERACT EXTRACT TEXT INFORMATION FROM IMAGE THERE MIGHT NOT BE 100% ACCURACY IN EXTRACTING THE DETAILS IN EVERY CASE.
 
-SAMPLE INPUT:
-![Alt text](/home/hemanth/sasi/anomaly/aadhar/input/2.jpg raw=true "Input image")
+* INPUT : Please check the input folder for input images
+* OUTPUT : Please check the .json file for output obtained.
 
+USAGE : 1. DOwnload the folder and make sure aadhar_read.py and pan_read.py are in same directory as detect.ipynb notebook.
+2. OPEN DETECT.ipynb notebook and change the path to your respective input image path and run the notebook
+3. GIve output path for the data to be stored in .json /.txt file 
