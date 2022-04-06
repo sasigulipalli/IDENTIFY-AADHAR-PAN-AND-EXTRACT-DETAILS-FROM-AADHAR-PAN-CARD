@@ -25,3 +25,8 @@ USAGE :
 
 sample input image: 
 ![2](https://user-images.githubusercontent.com/49371052/161949939-a22ae7a8-3162-4271-9981-9c65d0a8bea9.jpg)
+
+results obtained:
+
+[output.txt](https://github.com/sasigulipalli/IDENTIFY-AADHAR-PAN-AND-EXTRACT-DETAILS-FROM-AADHAR-PAN-CARD/files/8425836/output.txt)
+
