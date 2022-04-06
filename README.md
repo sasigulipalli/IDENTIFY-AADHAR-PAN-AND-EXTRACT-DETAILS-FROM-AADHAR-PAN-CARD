@@ -22,3 +22,6 @@ USAGE :
 3. GIve output path for the data to be stored in .json /.txt file 
 
 4. You can see the final ouput obtained and the details stored in info.json which detects the type of the image(whether aadhar/pan) and its relevant details
+
+sample input image: 
+![2](https://user-images.githubusercontent.com/49371052/161949939-a22ae7a8-3162-4271-9981-9c65d0a8bea9.jpg)
