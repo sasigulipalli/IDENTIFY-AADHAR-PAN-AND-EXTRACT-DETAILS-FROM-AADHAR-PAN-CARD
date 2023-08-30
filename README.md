@@ -24,16 +24,3 @@ USAGE :
 4. You can see the final ouput obtained and the details stored in info.json which detects the type of the image(whether aadhar/pan) and its relevant details
 
 sample input image: 
-
-results obtained:
-
-{
-    "Date of Birth": "20/11/1983",
-    "Father Name": "PADMANABHAN DEVARAJAN",
-    "ID Type": "PAN",
-    "Name": " ELAYARAJA PADMANABHAN",
-    "PAN": "AOZPP6821K"
-}
-
-[output.txt](https://github.com/sasigulipalli/IDENTIFY-AADHAR-PAN-AND-EXTRACT-DETAILS-FROM-AADHAR-PAN-CARD/files/8425836/output.txt)
-
